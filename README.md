@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Electric Vehicle Market Performance & Insights
 
 An interactive Tableau dashboard exploring electric vehicle manufacturers, driving range, battery capacity, and vehicle body types.
@@ -30,3 +31,7 @@ Download the `.twbx` file and open it with Tableau Desktop.
 
 ## Notes
 KPI values are rounded for display. Dashboard rendering and data-source compatibility should be checked in Tableau Desktop before treating this as a final published version.
+=======
+# ELECTRICAL-VEHICLE-MARKET-INSIGHTS
+Developed an interactive Tableau dashboard to analyze electric vehicle market data, uncover manufacturer trends, compare driving ranges, explore battery capacity, and visualize vehicle body types to generate meaningful business insights.
+>>>>>>> 4abcd0c309b6d3abf02d4754418dc86176f1db9c
